@@ -30,20 +30,60 @@ header img{
 
 /* MAIN */
 
-#container1{
+/* CONTAINER1 */
+
+.container{
   width: 80%;
   max-width: 1200px;
   background-color: white;
-  margin: 0 auto;
-  margin-top: 40px;
+  border-radius: 2%;
+  margin: 0 auto; 
+}
 
+#container1{
+  margin-top: 40px;
 }
 
 #buttons{
-  padding: 15px 30px;
+  padding: 15px 35px;
 }
 
 .btn{
-  padding: 2px;
-
+  padding: 5px;
+  border:2px rgba(128, 128, 128, 0.637);
+  border-radius: 8%;
 }
+
+#button-blue{
+  background-color: rgba(78, 136, 211, 0.829);
+  color: white;
+}
+
+#button-white{
+  color: rgba(128, 128, 128, 0.637) ;
+}
+
+/* CONTAINER2 */
+
+#container2{
+  margin-top: 2px;
+}
+#container2 ol {
+  padding: 15px 35px;
+  list-style: none;
+}
+
+
+.container ul {
+  list-style: none;
+}
+
+.check{
+  border: 1px solid green;
+  border-radius: 50%;
+  color: green;
+}
+
+
+
+
