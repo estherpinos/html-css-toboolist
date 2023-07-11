@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgba(128, 128, 128, 0.212);
+}
+
+/* HEADER */
+
+header{
+  background-color: white;
+  padding-left: 20px;
+  padding: 20px;
+}
+
+header h1{
+  display: inline-block;
+  vertical-align:middle;
+  font-size: 4rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header img{
+  vertical-align: middle;
+  width: 100px;
+}
