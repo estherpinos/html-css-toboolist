@@ -27,3 +27,23 @@ header img{
   vertical-align: middle;
   width: 100px;
 }
+
+/* MAIN */
+
+#container1{
+  width: 80%;
+  max-width: 1200px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 40px;
+
+}
+
+#buttons{
+  padding: 15px 30px;
+}
+
+.btn{
+  padding: 2px;
+
+}
